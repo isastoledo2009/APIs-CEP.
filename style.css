@@ -1,0 +1,21 @@
+body{
+    background-color: brown;
+}
+fieldset{
+    background-color: bisque;
+    color: brown;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+legend{
+    background-color: brown;
+    color: bisque;
+    font-size: 30px;
+}
+button{
+    background-color: brown;
+    color: bisque;
+}
+h1{
+    color: bisque;
+}
